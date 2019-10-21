@@ -1,7 +1,7 @@
 FROM alpine
 LABEL MAINTAINER="James O'Beirne <james@chaincode.com>"
 
-ARG VERSION=1.5.1.0
+ARG VERSION=1.7.0.0
 ARG GLIBC_VERSION=2.28-r0
 
 ENV COINNAME bitcoin

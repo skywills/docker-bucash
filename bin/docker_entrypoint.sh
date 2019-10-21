@@ -49,8 +49,6 @@ testnet=${TESTNET:-1}
 dbcache=${DBCACHE:-512}
 
 
-consensus.forkNov2018Time=${BCHABC:-1}
-consensus.svForkNov2018Time=${BCHSV:-0}
 
 EOF
 fi
